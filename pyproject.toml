@@ -1,0 +1,15 @@
+[project]
+name = "workflowgraphics"
+description = "Embed images directly in your workflow JSONs"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/pixelworldai/ComfyUI-WorkflowGraphics"
+#  Used by Comfy Registry https://registry.comfy.org
+
+[tool.comfy]
+PublisherId = "pixelworldai"
+DisplayName = "ComfyUI-WorkflowGraphics"
+Icon = ""
+includes = []
